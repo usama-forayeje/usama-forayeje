@@ -25,9 +25,9 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
 <a href="https://dev.to/w-a-sabbirahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="w-a-sabbirahmed" height="30" width="40" /></a>
 <a href="https://twitter.com/w-a-sabbirahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="w-a-sabbirahmed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wasabbirahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasabbirahmed" height="30" width="40" /></a>
-<a href="https://codesandbox.com/w-a-sabbirahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="w-a-sabbirahmed" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100025828193391&sk=about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wasabbirahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/wasabbirahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wasabbirahmed" height="30" width="40" /></a>
+<a href="https://codesandbox.com/w-a-sabbirahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="w-a-usamaforayaje" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100025828193391&sk=about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usamaforayaje" height="30" width="40" /></a>
+<a href="https://instagram.com/usamaforayaje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usamaforayaje" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
