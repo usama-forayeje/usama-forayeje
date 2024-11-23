@@ -42,16 +42,6 @@
 
 
 
-<div style="text-align: center;">
-    <h3>🌈 Fun with Animation</h3>
-    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300" alt="Coding Animation" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0,0,0,0.2);">
-</div>
-
-
----
-
-
-
 <div align="center">
 
 ### 💡 Fun Fact:
@@ -147,7 +137,7 @@
 
 ## <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![](https://visitcount.itsvg.in/api?id=usamaforayaje&icon=0&color=0)](https://visitcount.itsvg.in)
+![(https://visitcount.itsvg.in/api?id=usamaforayaje&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
