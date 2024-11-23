@@ -43,11 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak">
-</div>
+
 
 ---
 
@@ -124,17 +120,25 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
-# 📊 GitHub Stats:
 
-
+### 📊 GitHub Stats
+<div align="center">
+ 
 ![](https://github-readme-stats.vercel.app/api?username=usama-forayeje&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=usama-forayeje&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=usama-forayeje&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
+</div>
 
-![](https://github-contributor-stats.vercel.app/api?username=usama-forayeje&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 🔝 Top Contributed Repo
+<div align="center">
+ ![](https://github-contributor-stats.vercel.app/api?username=usama-forayeje&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
+
+
+
 
 ---
 
