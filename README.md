@@ -1,19 +1,17 @@
 <div align="center" style="margin: 20px 0;">
   <h1 style="font-family: 'Arial', sans-serif; font-size: 2.5rem; color: #FFD700; text-shadow: 0 0 20px #FFD700, 0 0 30px #FFA500;">
-    ✨ Welcome to My Awesome World! ✨
+    ✨ Welcome to Usama Forayaje's Awesome World! ✨
   </h1>
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=677CF7&random=true&width=550&height=70&lines=%F0%9F%8C%90+Building+Modern%2C+Responsive+Web+Applications;%F0%9F%92%BB+React+Ninja+%7C+Tailwind+Wizard;%F0%9F%8C%9F+Shaping+the+Future+of+Web+Development;%F0%9F%AA%84+Creating+Magic+with+HTML%2C+CSS%2C+%26+JS;%F0%9F%9B%A0%EF%B8%8F+Frontend+Alchemist+%7C+Breathing+Life+Into+Websites;%F0%9F%94%A5+Design+%2B+Code+%3D+Perfect+Harmony;%F0%9F%92%A1+Dream+It%2C+Design+It%2C+Build+It;%F0%9F%93%B1+Mobile-First+%7C+Responsive+Design+Advocate;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Welcome+to+My+Code+Lab!+%7C+Explore+My+Digital+Creations;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Coding+Interfaces+That+Users+Love" alt="Typing SVG" />
-  </a>
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-<iframe src="https://giphy.com/embed/scZPhLqaVOM1qG4lT9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
-</iframe>
-</div>
-<p><a href="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9">via GIPHY</a></p>
-</div>
+ 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=677CF7&random=true&width=600&height=70&lines=%F0%9F%8C%90+Building+Modern%2C+Responsive+Web+Applications;%F0%9F%92%BB+React+Ninja+%7C+Tailwind+Wizard;%F0%9F%8C%9F+Shaping+the+Future+of+Web+Development;%F0%9F%AA%84+Creating+Magic+with+HTML%2C+CSS%2C+%26+JS;%F0%9F%9B%A0%EF%B8%8F+Frontend+Alchemist+%7C+Breathing+Life+Into+Websites;%F0%9F%94%A5+Design+%2B+Code+%3D+Perfect+Harmony;%F0%9F%92%A1+Dream+It%2C+Design+It%2C+Build+It;%F0%9F%93%B1+Mobile-First+%7C+Responsive+Design+Advocate;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Welcome+to+My+Code+Lab!+%7C+Explore+My+Digital+Creations;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Coding+Interfaces+That+Users+Love" alt="Typing SVG" /></a>
+  
+  
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/scZPhLqaVOM1qG4lT9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9">via GIPHY</a></p>
 
 ---
+
+
+<div align="center">
 
 ### 🌟 About Me
 <table>
@@ -35,31 +33,21 @@
 </tr>
 </table>
 
+</div>
 ---
 
 
 
----
+
+<div align="center">
 
 ### 🌈 Fun with Animation
-<div align="center">
+
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300" alt="Coding Animation" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0,0,0,0.2);">
 </div>
 
 ---
 
-
-### 🔥 Dynamic Extras
-- 🕹️ **Typing Effect:**  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=F77F00&background=00000000&width=450&lines=Frontend+Developer;ReactJS+Lover;Building+Next-Level+UIs!)
-
-- 🎨 **Custom Skills Icons:**  
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb" alt="Skill Icons">
- 
-
-
-
----
 
 
 <div align="center">
