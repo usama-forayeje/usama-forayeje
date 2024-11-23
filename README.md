@@ -75,7 +75,8 @@
 
 Coding is 50% debugging and 50% Googling! 😄 
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BuNmZ4NGFrbDlsMXBleGYycml3am5lbmV4b2lvMXVidzUxeTh4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="300">
+
 
 </div>
 
