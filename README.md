@@ -155,7 +155,7 @@ Coding is 50% debugging and 50% Googling! 😄
 <div>
 
 
-[![](https://visitcount.itsvg.in/api?id=usamaforayaje&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=usamaforayeje&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake-dark.svg" />
