@@ -1,6 +1,49 @@
-# 💫 About Me:
 
-🔭 I’m currently working on frontend development<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning MARN<br>💬 Ask me about react<br>⚡ I love clean and responsive
+<div align="center">
+  <h1>🌟 Welcome to My GitHub Profile! 🌟</h1>
+  <img src="https://media.giphy.com/media/26BRwDJPkCLsC4S2A/giphy.gif" width="200" alt="Animation">
+</div>
+
+---
+
+### 🚀 About Me
+
+- 🔭 **I’m currently working on:**  
+  ![Frontend Development](https://img.shields.io/badge/Frontend-Development-6C63FF?style=for-the-badge&logo=react&logoColor=white)
+
+- 👯 **Looking to collaborate on:**  
+  ![Exciting Projects](https://img.shields.io/badge/Exciting-Projects-FF6584?style=for-the-badge&logo=github&logoColor=white)
+
+- 🌱 **Learning:**  
+  ![MERN Stack](https://img.shields.io/badge/Learning-MERN_Stack-FFC107?style=for-the-badge&logo=node.js&logoColor=white)
+
+- 💬 **Ask me about:**  
+  ![React](https://img.shields.io/badge/Ask_Me_About-React-00BCD4?style=for-the-badge&logo=react&logoColor=white)
+
+- ⚡ **I love clean and responsive UI:**  
+  ![Passionate UI Design](https://img.shields.io/badge/Passionate-Clean_Responsive_UI-F44336?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🌈 Animated Badges and Icons
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKUM9R6VIzVO3Yk/giphy.gif" width="400" alt="React Animation">
+  <br><br>
+  <img src="https://img.shields.io/badge/Code_with-Passion-6C63FF?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Love_to-Learn-New_Techs-FF6584?style=flat-square&logo=github&logoColor=white">
+</div>
+
+---
+
+### 🛠 Skills and Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,html,css,bootstrap,tailwind" alt="Skills Icons" style="margin: 10px;">
+</div>
+
+---
+
+### 💡 Fun Fact:
+> Coding is 50% debugging and 50% Googling! 😄
 
 ## 🌐 Socials:
 
@@ -63,7 +106,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=usamaforayaje&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ![GitHub Snake Dark Animation](https://github.com/<your-username>/<repo-name>/blob/output/github-snake-dark.svg)
 ![Snake Animation](https://github.com/usama-forayeje/usama-forayaje03/blob/output/github-snake.svg)
