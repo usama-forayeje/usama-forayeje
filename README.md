@@ -1,10 +1,15 @@
-<div align="center">
-  <h1>✨ Welcome to My Digital Space! ✨</h1>
-  <img src="https://media.giphy.com/media/1ykZ2Tq1d9wU7FglS3/giphy.gif" width="300" alt="Space Animation">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=F77F00&background=00000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+a+Frontend+Wizard!+%F0%9F%8E%86;Passionate+About+Creating+Magic+With+Code!;Let's+Build+Something+Awesome+Together!">
-</div>
+<div align="center" style="margin: 20px 0;">
+  <!-- Heading with Glow Effect -->
+  <h1 style="font-family: 'Arial', sans-serif; font-size: 2.5rem; color: #FFD700; text-shadow: 0 0 20px #FFD700, 0 0 30px #FFA500;">
+    ✨ Welcome to My Digital Space! ✨
+  </h1>
 
+  <!-- Space Animation GIF -->
+  <img src="https://media.giphy.com/media/1ykZ2Tq1d9wU7FglS3/giphy.gif" width="320" alt="Space Animation" style="border: 3px solid #FFD700; border-radius: 20px; box-shadow: 0 0 30px rgba(255, 215, 0, 0.5); margin-bottom: 20px;">
+
+  <!-- Typing Effect with Custom Styles -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=FFD700&background=00000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+a+Frontend+Wizard!+%F0%9F%8E%86;Passionate+About+Creating+Magic+With+Code!;Let's+Build+Something+Awesome+Together!" alt="Typing SVG" style="margin-top: 10px;">
+</div>
 ---
 
 ### 🌟 About Me
@@ -35,7 +40,7 @@
 
 ### 🌈 Fun with Animation
 <div align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300" alt="Coding Animation" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0,0,0,0.2);">
 </div>
 
 ---
