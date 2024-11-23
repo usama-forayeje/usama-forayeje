@@ -32,3 +32,5 @@
 
 
 ![GitHub Snake Animation](https://github.com/<your-username>/<repo-name>/blob/output/github-snake.svg)
+![GitHub Snake Dark Animation](https://github.com/<your-username>/<repo-name>/blob/output/github-snake-dark.svg)
+
