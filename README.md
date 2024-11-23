@@ -42,6 +42,12 @@
 
 
 
+
+
+---
+
+
+
 <div align="center">
 
 ### 💡 Fun Fact:
@@ -137,7 +143,7 @@
 
 ## <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![(https://visitcount.itsvg.in/api?id=usamaforayaje&icon=0&color=0)](https://visitcount.itsvg.in)
+[!(https://visitcount.itsvg.in/api?id=usamaforayaje&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
