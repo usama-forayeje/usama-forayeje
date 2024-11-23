@@ -1,15 +1,13 @@
 <div align="center" style="margin: 20px 0;">
-  <!-- Heading with Glow Effect -->
   <h1 style="font-family: 'Arial', sans-serif; font-size: 2.5rem; color: #FFD700; text-shadow: 0 0 20px #FFD700, 0 0 30px #FFA500;">
-    ✨ Welcome to My Digital Space! ✨
+    ✨ Welcome to My Awesome World! ✨
   </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=677CF7&random=true&width=550&height=70&lines=%F0%9F%8C%90+Building+Modern%2C+Responsive+Web+Applications;%F0%9F%92%BB+React+Ninja+%7C+Tailwind+Wizard;%F0%9F%8C%9F+Shaping+the+Future+of+Web+Development;%F0%9F%AA%84+Creating+Magic+with+HTML%2C+CSS%2C+%26+JS;%F0%9F%9B%A0%EF%B8%8F+Frontend+Alchemist+%7C+Breathing+Life+Into+Websites;%F0%9F%94%A5+Design+%2B+Code+%3D+Perfect+Harmony;%F0%9F%92%A1+Dream+It%2C+Design+It%2C+Build+It;%F0%9F%93%B1+Mobile-First+%7C+Responsive+Design+Advocate;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Welcome+to+My+Code+Lab!+%7C+Explore+My+Digital+Creations;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Coding+Interfaces+That+Users+Love" alt="Typing SVG" />
+  </a>
 
-  <!-- Space Animation GIF -->
-  <img src="https://media.giphy.com/media/1ykZ2Tq1d9wU7FglS3/giphy.gif" width="320" alt="Space Animation" style="border: 3px solid #FFD700; border-radius: 20px; box-shadow: 0 0 30px rgba(255, 215, 0, 0.5); margin-bottom: 20px;">
-
-  <!-- Typing Effect with Custom Styles -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=FFD700&background=00000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+a+Frontend+Wizard!+%F0%9F%8E%86;Passionate+About+Creating+Magic+With+Code!;Let's+Build+Something+Awesome+Together!" alt="Typing SVG" style="margin-top: 10px;">
+<iframe src="https://giphy.com/embed/scZPhLqaVOM1qG4lT9" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9">via GIPHY</a></p>
 </div>
+
 ---
 
 ### 🌟 About Me
@@ -52,16 +50,20 @@
 
 - 🎨 **Custom Skills Icons:**  
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb" alt="Skill Icons">
-- 💡 **Animated Gifs:**  
- <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300">
+ 
+
 
 
 ---
 
 
+<div align="center">
 
 ### 💡 Fun Fact:
 > Coding is 50% debugging and 50% Googling! 😄
+ <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300">
+
+</div>
 
 ## 🌐 Socials:
 
