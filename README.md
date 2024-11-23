@@ -1,44 +1,37 @@
-
 <div align="center">
-  <h1>🌟 Hey there! Welcome to My Universe 🌟</h1>
-  <img src="https://media.giphy.com/media/3o6ZsWGYebWsFfxtJ2/giphy.gif" width="300" alt="Hello Animation">
+  <h1>✨ Welcome to My Digital Space! ✨</h1>
+  <img src="https://media.giphy.com/media/1ykZ2Tq1d9wU7FglS3/giphy.gif" width="300" alt="Space Animation">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=6C63FF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=I+Love+Building+Awesome+UI/UX+%F0%9F%92%9C;Passionate+Frontend+Developer!+%F0%9F%8E%A8;Always+Learning+New+Tech+%F0%9F%93%9A" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=F77F00&background=00000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+a+Frontend+Wizard!+%F0%9F%8E%86;Passionate+About+Creating+Magic+With+Code!;Let's+Build+Something+Awesome+Together!">
 </div>
 
 ---
 
-### 🚀 About Me:
-- 🔭 **Currently working on:**  
-  ![Frontend Development](https://img.shields.io/badge/Frontend-Development-6C63FF?style=for-the-badge&logo=react&logoColor=white)
-
-- 👯 **Looking to collaborate on:**  
-  ![Team Projects](https://img.shields.io/badge/Team-Collaborations-FF6584?style=for-the-badge&logo=github&logoColor=white)
-
-- 🌱 **Learning:**  
-  ![MERN Stack](https://img.shields.io/badge/Learning-MERN_Stack-FFC107?style=for-the-badge&logo=node.js&logoColor=white)
-
-- 💬 **Ask me about:**  
-  ![React](https://img.shields.io/badge/Ask_Me_About-ReactJS-00BCD4?style=for-the-badge&logo=react&logoColor=white)
-
-- ⚡ **Fun Fact:**  
-  ![Passionate Coder](https://img.shields.io/badge/Always-Coding_With_Coffee-29B6F6?style=for-the-badge&logo=coffee&logoColor=white)
-
----
-
-### 🌟 Skills
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,bootstrap,tailwind,git" alt="Skills">
-</div>
+### 🌟 About Me
+<table>
+<tr>
+  <td>🔭 <b>Currently working on:</b></td>
+  <td><img src="https://img.shields.io/badge/Frontend_Development-6C63FF?style=for-the-badge&logo=react&logoColor=white"></td>
+</tr>
+<tr>
+  <td>🌱 <b>Learning:</b></td>
+  <td><img src="https://img.shields.io/badge/MERN_Stack-FFC107?style=for-the-badge&logo=node.js&logoColor=black"></td>
+</tr>
+<tr>
+  <td>💬 <b>Ask me about:</b></td>
+  <td><img src="https://img.shields.io/badge/ReactJS-00BCD4?style=for-the-badge&logo=react&logoColor=white"></td>
+</tr>
+<tr>
+  <td>⚡ <b>Fun Fact:</b></td>
+  <td><img src="https://img.shields.io/badge/I_Love-Creating_Responsive_Designs-29B6F6?style=for-the-badge&logo=code&logoColor=white"></td>
+</tr>
+</table>
 
 ---
 
-### 🛠 My Favorite Tools:
+### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,bootstrap,tailwind,git,figma,vscode" alt="Tech Stack">
 </div>
 
 ---
@@ -58,18 +51,31 @@
 
 ---
 
-### 🔗 Connect with Me:
+### 🌍 Let's Connect
 <div align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-FF4136?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/your-github-username" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
+
+---
+
+### 🔥 Dynamic Extras
+- 🕹️ **Typing Effect:**  
+  Add custom typing animations using [Typing SVG](https://github.com/DenverCoder1/readme-typing-svg).
+- 🎨 **Custom Skills Icons:**  
+  Use [Skill Icons](https://skillicons.dev/) for your tech stack.
+- 💡 **Animated Gifs:**  
+  Enhance your profile using engaging gifs from [Giphy](https://giphy.com/).
+
+---
+
 
 
 ### 💡 Fun Fact:
@@ -119,6 +125,7 @@
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
 # 📊 GitHub Stats:
+
 
 ![](https://github-readme-stats.vercel.app/api?username=usama-forayeje&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
