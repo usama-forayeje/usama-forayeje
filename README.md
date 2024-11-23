@@ -1,46 +1,76 @@
 
 <div align="center">
-  <h1>🌟 Welcome to My GitHub Profile! 🌟</h1>
-  <img src="https://media.giphy.com/media/26BRwDJPkCLsC4S2A/giphy.gif" width="200" alt="Animation">
+  <h1>🌟 Hey there! Welcome to My Universe 🌟</h1>
+  <img src="https://media.giphy.com/media/3o6ZsWGYebWsFfxtJ2/giphy.gif" width="300" alt="Hello Animation">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=6C63FF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=I+Love+Building+Awesome+UI/UX+%F0%9F%92%9C;Passionate+Frontend+Developer!+%F0%9F%8E%A8;Always+Learning+New+Tech+%F0%9F%93%9A" alt="Typing SVG">
 </div>
 
 ---
 
-### 🚀 About Me
-
-- 🔭 **I’m currently working on:**  
+### 🚀 About Me:
+- 🔭 **Currently working on:**  
   ![Frontend Development](https://img.shields.io/badge/Frontend-Development-6C63FF?style=for-the-badge&logo=react&logoColor=white)
 
 - 👯 **Looking to collaborate on:**  
-  ![Exciting Projects](https://img.shields.io/badge/Exciting-Projects-FF6584?style=for-the-badge&logo=github&logoColor=white)
+  ![Team Projects](https://img.shields.io/badge/Team-Collaborations-FF6584?style=for-the-badge&logo=github&logoColor=white)
 
 - 🌱 **Learning:**  
   ![MERN Stack](https://img.shields.io/badge/Learning-MERN_Stack-FFC107?style=for-the-badge&logo=node.js&logoColor=white)
 
 - 💬 **Ask me about:**  
-  ![React](https://img.shields.io/badge/Ask_Me_About-React-00BCD4?style=for-the-badge&logo=react&logoColor=white)
+  ![React](https://img.shields.io/badge/Ask_Me_About-ReactJS-00BCD4?style=for-the-badge&logo=react&logoColor=white)
 
-- ⚡ **I love clean and responsive UI:**  
-  ![Passionate UI Design](https://img.shields.io/badge/Passionate-Clean_Responsive_UI-F44336?style=for-the-badge&logo=figma&logoColor=white)
+- ⚡ **Fun Fact:**  
+  ![Passionate Coder](https://img.shields.io/badge/Always-Coding_With_Coffee-29B6F6?style=for-the-badge&logo=coffee&logoColor=white)
 
 ---
 
-### 🌈 Animated Badges and Icons
+### 🌟 Skills
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKUM9R6VIzVO3Yk/giphy.gif" width="400" alt="React Animation">
-  <br><br>
-  <img src="https://img.shields.io/badge/Code_with-Passion-6C63FF?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Love_to-Learn-New_Techs-FF6584?style=flat-square&logo=github&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,bootstrap,tailwind,git" alt="Skills">
 </div>
 
 ---
 
-### 🛠 Skills and Tools
+### 🛠 My Favorite Tools:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,html,css,bootstrap,tailwind" alt="Skills Icons" style="margin: 10px;">
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
 ---
+
+### 🌈 Fun with Animation
+<div align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300" alt="Coding Animation">
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak">
+</div>
+
+---
+
+### 🔗 Connect with Me:
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
 
 ### 💡 Fun Fact:
 > Coding is 50% debugging and 50% Googling! 😄
