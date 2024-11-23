@@ -13,12 +13,15 @@
   </h1>
   <div style="position: absolute; top: -50px; left: -50px; width: 150px; height: 150px; background: radial-gradient(circle, rgba(255, 223, 0, 0.6), transparent); animation: float 3s ease-in-out infinite;"></div>
   <div style="position: absolute; bottom: -50px; right: -50px; width: 150px; height: 150px; background: radial-gradient(circle, rgba(255, 69, 0, 0.6), transparent); animation: float 3s ease-in-out infinite reverse;"></div>
+
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=677CF7&random=true&width=600&height=70&lines=%F0%9F%8C%90+Building+Modern%2C+Responsive+Web+Applications;%F0%9F%92%BB+React+Ninja+%7C+Tailwind+Wizard;%F0%9F%8C%9F+Shaping+the+Future+of+Web+Development;%F0%9F%AA%84+Creating+Magic+with+HTML%2C+CSS%2C+%26+JS;%F0%9F%9B%A0%EF%B8%8F+Frontend+Alchemist+%7C+Breathing+Life+Into+Websites;%F0%9F%94%A5+Design+%2B+Code+%3D+Perfect+Harmony;%F0%9F%92%A1+Dream+It%2C+Design+It%2C+Build+It;%F0%9F%93%B1+Mobile-First+%7C+Responsive+Design+Advocate;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Welcome+to+My+Code+Lab!+%7C+Explore+My+Digital+Creations;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Coding+Interfaces+That+Users+Love" alt="Typing SVG" /></a>
+
 </div>
 
 
 
  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=677CF7&random=true&width=600&height=70&lines=%F0%9F%8C%90+Building+Modern%2C+Responsive+Web+Applications;%F0%9F%92%BB+React+Ninja+%7C+Tailwind+Wizard;%F0%9F%8C%9F+Shaping+the+Future+of+Web+Development;%F0%9F%AA%84+Creating+Magic+with+HTML%2C+CSS%2C+%26+JS;%F0%9F%9B%A0%EF%B8%8F+Frontend+Alchemist+%7C+Breathing+Life+Into+Websites;%F0%9F%94%A5+Design+%2B+Code+%3D+Perfect+Harmony;%F0%9F%92%A1+Dream+It%2C+Design+It%2C+Build+It;%F0%9F%93%B1+Mobile-First+%7C+Responsive+Design+Advocate;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Welcome+to+My+Code+Lab!+%7C+Explore+My+Digital+Creations;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Coding+Interfaces+That+Users+Love" alt="Typing SVG" /></a>
 ---
 
 
