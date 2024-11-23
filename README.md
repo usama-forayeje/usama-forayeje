@@ -44,24 +44,6 @@
 ---
 
 
-
----
-
-### 🌍 Let's Connect
-<div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-FF4136?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
-
----
-
 ### 🔥 Dynamic Extras
 - 🕹️ **Typing Effect:**  
   Add custom typing animations using [Typing SVG](https://github.com/DenverCoder1/readme-typing-svg).
@@ -79,10 +61,17 @@
 
 ## 🌐 Socials:
 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
-![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-FF4136?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
 
 # 💻 Tech Stack:
 
@@ -132,10 +121,14 @@
 </div>
 
 
-### 🔝 Top Contributed Repo
+
+ 
+ <div align=" center">
+
+ ### 🔝 Top Contributed Repo
 
  ![](https://github-contributor-stats.vercel.app/api?username=usama-forayeje&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<div>
 
 
 
