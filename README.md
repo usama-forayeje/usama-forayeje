@@ -43,11 +43,13 @@
 
 ### 🔥 Dynamic Extras
 - 🕹️ **Typing Effect:**  
-  Add custom typing animations using [Typing SVG](https://github.com/DenverCoder1/readme-typing-svg).
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=F77F00&background=00000000&width=450&lines=Frontend+Developer;ReactJS+Lover;Building+Next-Level+UIs!)
+
 - 🎨 **Custom Skills Icons:**  
-  Use [Skill Icons](https://skillicons.dev/) for your tech stack.
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb" alt="Skill Icons">
 - 💡 **Animated Gifs:**  
-  Enhance your profile using engaging gifs from [Giphy](https://giphy.com/).
+ <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300">
+
 
 ---
 
@@ -71,9 +73,10 @@
 </div>
 
 
-### 🛠️ Tech Stack
 <div align="center">
   
+### 🛠️ Tech Stack
+
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
