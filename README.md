@@ -29,10 +29,7 @@
 
 ---
 
-### 🛠️ Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,bootstrap,tailwind,git,figma,vscode" alt="Tech Stack">
-</div>
+
 
 ---
 
@@ -73,9 +70,11 @@
   </a>
 </div>
 
-# 💻 Tech Stack:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+### 🛠️ Tech Stack
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
@@ -110,9 +109,14 @@
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
 
-### 📊 GitHub Stats
+</div>
+
+
+
 <div align="center">
  
+### 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=usama-forayeje&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=usama-forayeje&theme=dark&hide_border=false)<br/>
