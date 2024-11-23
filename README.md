@@ -153,7 +153,7 @@ Coding is 50% debugging and 50% Googling! 😄
 
 <div>
 
-[![](https://visitcount.itsvg.in/api?id=usamaforayeje&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=usamaforayaje&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![GitHub Snake Dark Animation](https://github.com/<your-username>/<repo-name>/blob/output/github-snake-dark.svg)
-![Snake Animation](https://github.com/usama-forayeje/usama-forayaje/blob/output/github-snake.svg)
+![Snake Animation](https://github.com/usama-forayeje/usama-forayaje03/blob/output/github-snake.svg)
