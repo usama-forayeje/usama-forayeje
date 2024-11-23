@@ -73,7 +73,7 @@
 
 ### 💡 Fun Fact:
 
-< Coding is 50% debugging and 50% Googling! 😄> 
+Coding is 50% debugging and 50% Googling! 😄 
 
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300">
 
