@@ -102,7 +102,7 @@
   <a href="mailto:usamaforayaje03.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-FF4136?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/usama-forayeje" target="_blank">
+  <a href="https://[github.com/usama-forayeje](https://github.com/usama-forayeje)" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
