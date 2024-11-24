@@ -166,7 +166,11 @@
 
 <div>
 
-![](https://visitcount.itsvg.in/api?id=usamaforayaje&icon=0&color=0)
+![](https://visitcount.itsvg.in/api?id=usama-forayeje&icon=0&color=0)
 
-![GitHub Snake Dark Animation](https://github.com/<your-username>/<repo-name>/blob/output/github-snake-dark.svg)
-![Snake Animation](https://github.com/usama-forayeje/usama-forayaje03/blob/output/github-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake.svg" />
+</picture>
