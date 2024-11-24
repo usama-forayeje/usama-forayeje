@@ -44,7 +44,7 @@
   <tr>
     <td>⚡ <b>Fun Fact:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/I_Love-Creating_Responsive_Designs-29B6F6?style=for-the-badge&logo=code&logoColor=white" style="animation: pulse 1.5s infinite;">
+      <img src="https://img.shields.io/badge/I_Love-Clean_And_Responsive-29B6F6?style=for-the-badge&logo=code&logoColor=white" style="animation: pulse 1.5s infinite;">
     </td>
   </tr>
   <tr>
