@@ -71,14 +71,26 @@
 
 <div align="center">
 
-### 💡 Fun Fact:
+## 💡 **Fun Fact**
 
-Coding is 50% debugging and 50% Googling! 😄 
+🌟 **Coding**: It's 50% **debugging** 🐞 and 50% **Googling** 🔍...  
+...but 💯% **satisfaction** when the code works! 🚀💻  
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BuNmZ4NGFrbDlsMXBleGYycml3am5lbmV4b2lvMXVidzUxeTh4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="300">
+---
 
+### 🔥 **Programmer's Journey in One GIF:**
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BuNmZ4NGFrbDlsMXBleGYycml3am5lbmV4b2lvMXVidzUxeTh4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" 
+     width="300" 
+     alt="Coding Animation" 
+     style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);">
+
+---
+
+💖 **Pro Tip**: Never forget to take a break! ☕ A healthy coder = A happy coder! 🎉
 
 </div>
+
 
 <div align="center">
 
@@ -87,10 +99,10 @@ Coding is 50% debugging and 50% Googling! 😄
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:usamaforayaje03.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-FF4136?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/usama-forayeje" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
@@ -154,12 +166,7 @@ Coding is 50% debugging and 50% Googling! 😄
 
 <div>
 
+![](https://visitcount.itsvg.in/api?id=usamaforayaje&icon=0&color=0)
 
-![](https://visitcount.itsvg.in/api?id=usamaforayeje&icon=0&color=0)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake.svg" />
-</picture>
-
+![GitHub Snake Dark Animation](https://github.com/<your-username>/<repo-name>/blob/output/github-snake-dark.svg)
+![Snake Animation](https://github.com/usama-forayeje/usama-forayaje03/blob/output/github-snake.svg)
