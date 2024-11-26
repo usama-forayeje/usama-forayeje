@@ -1,5 +1,8 @@
 <div align="right" >
 <img  src="https://visitor-badge.laobi.icu/badge?page_id=usama-forayeje" />
+</div>
+
+<div align="left" >
     <a href="https://github.com/usama-forayeje" target="_blank">
     <img src="https://img.shields.io/github/followers/usama-forayeje?label=Follow&style=social" alt="GitHub Follow">
   </a>
