@@ -13,9 +13,12 @@
 </h1>
 
 
-<div align="center">
 
-<h3 align="center">A passionate wev developer from Bangladesh </h3>
+<h3 align="center">
+    
+  A passionate web developer from <span style="color: #ff5722;">Bangladesh</span> 🚀
+</h3>
+
 
 <br/>
 
@@ -91,10 +94,7 @@
 
 </div>
 
-
 <br/>
-
-
 <hr/>
 
 
@@ -107,14 +107,7 @@
 
 </div>
 
-
 <hr/>
-
-
-
-
 <div align="center">
     <h4>Made with ❤️ by <strong>Usama Forayeje</strong></h4>
 </div>
-
-
