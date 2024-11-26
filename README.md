@@ -17,10 +17,11 @@
     🔭 I’m currently working on **Frontend Development**
     
     🌱 I’m currently learning **MERN Stack**
-    💬 Ask me about **Node.js, React, Firebase... or anything 
-        <a href="https://github.com/usama-forayeje" target="_blank">here</a>**
+    
+    💬 Ask me about **Node.js, React, Firebase... or anything **
     
     ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+    
 </div>
 <br/>
 
