@@ -74,7 +74,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake.svg" />
 </picture>
-    <br/><br/>
+    
 </div>
 <div align="center">
 
