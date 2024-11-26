@@ -13,12 +13,14 @@
 <br/>
 
 <div align="center">
-    🔭 I’m currently working on <b>Frontend Development</b> <br/>
-    🌱 I’m currently learning <b>MERN Stack</b> <br/>
-    💬 Ask me about <b>Node.js, React, Firebase... or anything 
-        <a href="https://github.com/usama-forayeje" target="_blank">here</a>
-    </b><br/>
-    ⚡ Fun fact <b>Game of Thrones Night's Watch cloaks are made from Ikea rugs</b>
+    
+    🔭 I’m currently working on **Frontend Development**
+    
+    🌱 I’m currently learning **MERN Stack**
+    💬 Ask me about **Node.js, React, Firebase... or anything 
+        <a href="https://github.com/usama-forayeje" target="_blank">here</a>**
+    
+    ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 </div>
 <br/>
 
