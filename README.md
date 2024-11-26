@@ -15,7 +15,7 @@
 <div align="center">
     🔭 I’m currently working on ** Frontend Development** <br/>
     🌱 I’m currently learning **MARN Stack**<br/>
-    💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/usama-forayeje)**<br/>
+    💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/usama-forayeje/usama-forayeje/issues)**
     ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 </div>
 
