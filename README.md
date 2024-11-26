@@ -115,16 +115,24 @@
 <hr/>
 <div align="center">
     <h4>Made with ❤️ by <strong>Usama Forayeje</strong></h4>
-    <p>Frontend Developer | MERN Stack Enthusiast | Open Source Contributor</p>
-    <p>🚀 Let's build something awesome together!</p>
-    <a href="https://github.com/usama-forayeje" target="_blank">
-        <img src="https://img.shields.io/github/followers/usama-forayeje?label=Follow&style=social" alt="GitHub Follow">
-    </a>
-    <br/>
-    <p>Feel free to connect with me on <a href="https://www.linkedin.com/in/usama-forayeje" target="_blank">LinkedIn</a> | <a href="mailto:usama@example.com">Email</a></p>
-    <br/>
-    <p>🦸‍♂️ Building the web, one line of code at a time.</p>
-    <hr/>
+ ---
+
+### Connect with Me:
+<p align="center">
+  <a href="https://github.com/usama-forayeje" target="_blank">
+    ![GitHub Follow](https://img.shields.io/github/followers/usama-forayeje?label=Follow&style=social)
+  </a>
+  <a href="https://linkedin.com/in/usama-forayeje" target="_blank">
+    ![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)
+  </a>
+  <a href="mailto:usama.forayeje@example.com" target="_blank">
+    ![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail&logoColor=white)
+  </a>
+</p>
+
+---
+
+    
 </div>
 
 
