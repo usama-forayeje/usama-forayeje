@@ -13,16 +13,16 @@
 <br/>
 
 <div align="center">
-    
-    🔭 I’m currently working on **Frontend Development**
-    
-    🌱 I’m currently learning **MERN Stack**
-    
-    💬 Ask me about **Node.js, React, Firebase... or anything **
-    
-    ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-    
+
+🔭 I’m currently working on **Frontend Development** <br/>
+🌱 I’m currently learning **MERN Stack** <br/>
+💬 Ask me about **Node.js, React, Firebase... or anything 
+[here](https://github.com/usama-forayeje)** <br/>
+⚡ **Did you know?** In the world of Westeros, the iconic Night's Watch cloaks were made using humble **Ikea rugs**! 😲 How's that for a creative use of everyday items? 🏰
+
+
 </div>
+
 <br/>
 
 <div align="center"> 
