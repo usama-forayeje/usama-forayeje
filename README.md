@@ -14,11 +14,14 @@
 
 <div align="center">
 
-🔭 I’m currently working on **Frontend Development** <br/>
-🌱 I’m currently learning **MERN Stack** <br/>
+🔭 I’m currently working on **Frontend Development**
+🌱 I’m currently learning **MERN Stack** 
+
 💬 Ask me about **Node.js, React, Firebase... or anything 
-[here](https://github.com/usama-forayeje)** <br/>
-⚡ **Did you know?** In the world of Westeros, the iconic Night's Watch cloaks were made using humble **Ikea rugs**! 😲 How's that for a creative use of everyday items? 🏰
+[here](https://github.com/usama-forayeje)** 
+
+⚡ **Fun Fact**: The **Night's Watch** cloaks in *Game of Thrones* were made from **Ikea rugs**! 😱🧣
+
 
 
 </div>
