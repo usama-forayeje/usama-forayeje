@@ -20,55 +20,76 @@
 
 <div align="center">
 
-### 🌟 About Me
+<h3 align="center">A passionate wev developer from Bangladesh </h3>
 
-<table style="width: 100%; text-align: center; border-spacing: 10px;">
-  <tr>
-    <td>🔭 <b>Currently working on:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Frontend_Development-6C63FF?style=for-the-badge&logo=react&logoColor=white" style="animation: pulse 1.5s infinite;">
-    </td>
-  </tr>
-  <tr>
-    <td>🌱 <b>Learning:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MERN_Stack-FFC107?style=for-the-badge&logo=node.js&logoColor=black" style="animation: pulse 1.5s infinite;">
-    </td>
-  </tr>
-  <tr>
-    <td>💬 <b>Ask me about:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/ReactJS-00BCD4?style=for-the-badge&logo=react&logoColor=white" style="animation: pulse 1.5s infinite;">
-    </td>
-  </tr>
-  <tr>
-    <td>⚡ <b>Fun Fact:</b></td>
-    <td>
+<br/>
 
-      <img src="https://img.shields.io/badge/I_Love-Clean_And_Responsive-29B6F6?style=for-the-badge&logo=code&logoColor=white" style="animation: pulse 1.5s infinite;">
-      <img src="https://img.shields.io/badge/I_Love-Creating_Responsive_Designs-29B6F6?style=for-the-badge&logo=code&logoColor=white" style="animation: pulse 1.5s infinite;">
+<div align="center">
+    🔭 I’m currently working on ** Frontend Development** <br/>
+    🌱 I’m currently learning **MARN Stack**<br/>
+    💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/usama-forayeje)**<br/>
+    ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+</div>
 
-    </td>
-  </tr>
-  <tr>
-    <td>🎨 <b>Creative Side:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/UX_UI_Design-FF4081?style=for-the-badge&logo=figma&logoColor=white" style="animation: bounce 1s infinite;">
-    </td>
-  </tr>
-  <tr>
-    <td>🚀 <b>Mission:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Building_Impactful_Apps-FF5722?style=for-the-badge&logo=android&logoColor=white" style="animation: bounce 1s infinite;">
-    </td>
-  </tr>
-  <tr>
-    <td>📚 <b>Reading:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript_Fundamentals-2196F3?style=for-the-badge&logo=javascript&logoColor=white" style="animation: bounce 1s infinite;">
-    </td>
-  </tr>
-</table>
+<div align="center"> 
+    <a href="mailto:usamaforayaje@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/usama-forayaje/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/usama-forayeje" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    </a>
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
+<div align="center">
+    <h2>🐍 My Contributions 🐍</h2>
+    <br>
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake.svg" />
+</picture>
+    <br/><br/><br/>
+</div>
+
+
+<hr/>
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+<div align="center">
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=usama-forayeje&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width="390" src="https://github-readme-stats-usama-forayeje.vercel.app/api?username=usama-forayeje&count_private=true&show_icons=true&include_all_commits=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+    <br/>
+    <img width="325" align="center" src="https://github-readme-stats-usama-forayeje.vercel.app/api/top-langs/?username=usama-forayeje&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+
+
+</div>
+
+
+
+
+
+
+
+
 
 </div>
 
@@ -99,11 +120,9 @@
 
 ## 🌐 Socials:
 
-<<<<<<< Updated upstream
   <a href="https://www.linkedin.com/in/usama-forayaje/" target="_blank">
-=======
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
->>>>>>> Stashed changes
+
+
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:usamaforayaje03.com" target="_blank">
@@ -156,16 +175,12 @@
 
 <div align="center">
  
-<<<<<<< Updated upstream
 ## 📊 GitHub Stats
-=======
-### 📊 GitHub Stats
->>>>>>> Stashed changes
 
-![](https://github-readme-stats.vercel.app/api?username=usama-forayeje&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![]()
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=usama-forayeje&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=usama-forayeje&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![]()
 
 </div>
 
@@ -181,9 +196,5 @@
 ![](https://visitcount.itsvg.in/api?id=usama-forayeje&icon=0&color=0)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake.svg" />
-</picture>
+
 
