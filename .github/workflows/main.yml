@@ -13,11 +13,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # রেপোজিটরি চেকআউট
+      
       - name: Checkout Repository
         uses: actions/checkout@v3
       
-      # স্নেক গেম অ্যানিমেশন তৈরি
+     
       - name: Generate Snake Game
         uses: Platane/snk@v3
         with:
@@ -29,7 +29,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      # আউটপুট ব্রাঞ্চে ফাইল ডিপ্লয়
+     
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
