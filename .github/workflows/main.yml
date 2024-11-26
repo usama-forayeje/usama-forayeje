@@ -1,34 +1,39 @@
-name: Snake Game Updates
+name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Every 6 hours
+    # প্রতি ৬ ঘণ্টা পর পর রান করার জন্য শিডিউল
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # ম্যানুয়ালি ট্রিগার করার অপশন
   push:
     branches:
-      - main
-  workflow_dispatch: # Manually trigger the workflow
+      - main # মেইন ব্রাঞ্চে পুশ করলে রান করবে
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # রেপোজিটরি চেকআউট
       - name: Checkout Repository
         uses: actions/checkout@v3
-
-      - name: Generate Snake Game SVG
+      
+      # স্নেক গেম অ্যানিমেশন তৈরি
+      - name: Generate Snake Game
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Deploy SVG to GitHub Pages
+      
+      # আউটপুট ব্রাঞ্চে ফাইল ডিপ্লয়
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update snake SVG [skip ci]"
+          commit_message: "Update snake game animation [skip ci]"
