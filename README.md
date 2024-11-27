@@ -65,9 +65,21 @@
     <!-- Third Row of Icons -->
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,materialui,postman,powershell,sass,vercel,vite" />
 </div>
-![status](https://nocache.advaith.workers.dev?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+
+<br/>
+
+<div align="center">
+    <!-- Status Badge -->
+    <img src="https://img.shields.io/badge/status-online-green" alt="Status Badge" />
+    
+    <!-- Playing Badge -->
+    <img src="https://img.shields.io/badge/playing-React%20JS-blue" alt="Playing Badge" />
+    
+    <!-- VS Code Badge -->
+    <img src="https://img.shields.io/badge/Editor-VS%20Code-blue" alt="VS Code Badge" />
+</div>
+
+
 
 <br/>
 <hr/>
