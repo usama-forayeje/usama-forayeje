@@ -72,8 +72,8 @@
     <!-- Status Badge -->
     <img src="https://img.shields.io/badge/status-online-green" alt="Status Badge" />
     
-    <!-- Playing Badge -->
-    <img src="https://img.shields.io/badge/playing-React%20JS-blue" alt="Playing Badge" />
+ <!-- Playing Badge -->
+    <img src="https://img.shields.io/badge/playing-React-blue" alt="Playing Badge" />
     
     <!-- VS Code Badge -->
     <img src="https://img.shields.io/badge/Editor-VS%20Code-blue" alt="VS Code Badge" />
