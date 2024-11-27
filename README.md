@@ -56,10 +56,16 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,,tailwind,babel,jquery,redux," />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql," /><br>
-    <img src="https://skillicons.dev/icons?i="vscode,github,figma,git,materialui,postman,powershell,sass,vercel,vite,"/><br>
+    <!-- First Row of Icons -->
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,babel,jquery,redux" />
+    <br>
+    <!-- Second Row of Icons -->
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql" />
+    <br>
+    <!-- Third Row of Icons -->
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,materialui,postman,powershell,sass,vercel,vite" />
 </div>
+
 
 <br/>
 <hr/>
