@@ -26,7 +26,7 @@
 
 🔭 I’m currently working on **Frontend Development**
 
-🌱 I’m currently learning **MERN Stack** 
+🌱 I’m currently learning **MERN Stack Development** 
 
 💬 Ask me about **Node.js, React, Firebase... or anything 
 [here](https://github.com/usama-forayeje)** 
@@ -56,8 +56,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,,tailwind,babel,jquery,redux," />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i="vscode,github,figma,git,materialui,postman,powershell,sass,vercel,vite,"/><br>
 </div>
 
 <br/>
