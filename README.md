@@ -57,10 +57,10 @@
 <br/>
 <div align="center">
     <!-- First Row of Icons -->
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,babel,jquery,redux" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,jquery,redux" />
     <br>
     <!-- Second Row of Icons -->
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,babel" />
     <br>
     <!-- Third Row of Icons -->
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,materialui,postman,powershell,sass,vercel,vite" />
