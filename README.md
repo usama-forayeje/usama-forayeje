@@ -6,6 +6,7 @@
     <a href="https://github.com/usama-forayeje" target="_blank">
     <img src="https://img.shields.io/github/followers/usama-forayeje?label=Follow&style=social" alt="GitHub Follow">
   </a>
+    <a href="https://wakatime.com/@a266f62a-327f-4ed8-9c14-79e70cc54b70"><img src="https://wakatime.com/badge/user/a266f62a-327f-4ed8-9c14-79e70cc54b70.svg" alt="Total time coded since Nov 28 2024" /></a>
 </div>
 
 <h1 align="center">
