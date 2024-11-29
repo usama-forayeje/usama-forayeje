@@ -110,15 +110,6 @@
 
 <br/>
 <hr/>
-
-
-<div align="center">
-
-[![Usama's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=usama_forayaje&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div>
-
 <br/>
 
 <div align="center">
