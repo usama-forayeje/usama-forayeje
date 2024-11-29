@@ -114,7 +114,12 @@
 
 <div align="center">
 
-[![Usama's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=usama_forayaje&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# My WakaTime Stats
+
+[View Full Stats](WakaTimeStats.md)
+
+## Example of Last 7 Days:
+![WakaTime](https://github.com/usama-forayeje/usama-forayeje/raw/main/WakaTimeStats.md)
 
 
 </div>
