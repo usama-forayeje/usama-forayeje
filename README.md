@@ -110,20 +110,6 @@
 
 <br/>
 <hr/>
-
-
-<div align="center">
-
-# My WakaTime Stats
-
-[View Full Stats](WakaTimeStats.md)
-
-## Example of Last 7 Days:
-![WakaTime](https://github.com/usama-forayeje/usama-forayeje/raw/main/WakaTimeStats.md)
-
-
-</div>
-
 <br/>
 
 <div align="center">
