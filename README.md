@@ -18,7 +18,9 @@
   A passionate web developer from <span style="color: yellow;">Bangladesh</span> 🚀
 </h3>
 
+
 <br/>
+
 
 <div align="center">
 
@@ -33,7 +35,9 @@
 
 </div>
 
+
 <br/>
+
 
 <div align="center"> 
     <a href="mailto:usamaforayaje@gmail.com">
@@ -45,9 +49,13 @@
     <a href="https://github.com/usama-forayeje" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
+  
 </div>
+
 <hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <br/>
 
 <div align="center">
@@ -60,7 +68,9 @@
     <!-- Third Row of Icons -->
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,materialui,postman,powershell,sass,vercel,vite" />
 </div>
+
 <hr/>
+
 <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
    <picture>
@@ -70,8 +80,11 @@
 </picture>
     
 </div>
+
 <div align="center">
+  
 <hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <br>
