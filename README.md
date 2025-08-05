@@ -20,14 +20,10 @@
 <div align="center">
 
 🔭 I’m currently working on **Frontend Development**
-
 🌱 I’m currently learning **MERN Stack Development** 
-
 💬 Ask me about **Node.js, React, Firebase... or anything 
 [here](https://github.com/usama-forayeje)** 
-
 ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from IKEA rugs**! 😱
-
 </div>
 <br/>
 <div align="center"> 
@@ -40,11 +36,8 @@
     <a href="https://github.com/usama-forayeje" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
-  
 </div>
-
 <hr/>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
