@@ -1,12 +1,15 @@
 <div align="right" >
+  
 <a href="https://wakatime.com/@a266f62a-327f-4ed8-9c14-79e70cc54b70"><img src="https://wakatime.com/badge/user/a266f62a-327f-4ed8-9c14-79e70cc54b70.svg" alt="Total time coded since Nov 28 2024" /></a>
   <img  src="https://visitor-badge.laobi.icu/badge?page_id=usama-forayeje" />
+  
 </div>
 
 <div align="left" >
     <a href="https://github.com/usama-forayeje" target="_blank">
     <img src="https://img.shields.io/github/followers/usama-forayeje?label=Follow&style=social" alt="GitHub Follow">
   </a>
+  
 </div>
 
 <h1 align="center">
@@ -16,7 +19,9 @@
 <h3 align="center">
   A passionate web developer from <span style="color: yellow;">Bangladesh</span> 🚀
 </h3>
+
 <br/>
+
 <div align="center">
 
 🔭 I’m currently working on **Frontend Development**
@@ -25,7 +30,9 @@
 [here](https://github.com/usama-forayeje)** 
 ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from IKEA rugs**! 😱
 </div>
+
 <br/>
+
 <div align="center"> 
     <a href="mailto:usamaforayaje@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -37,9 +44,13 @@
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
 </div>
+
 <hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <br/>
+
 <div align="center">
     <!-- First Row of Icons -->
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,jquery,redux" />
@@ -61,6 +72,7 @@
  <img alt="github-snake" src="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake.svg" />
 </picture>
 </div>
+
 <div align="center">
   
 <hr/>
