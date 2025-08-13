@@ -26,7 +26,9 @@
 [here](https://github.com/usama-forayeje)** 
 ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from IKEA rugs**! 😱
 </div>
+
 <br/>
+
 <div align="center"> 
     <a href="mailto:usamaforayaje@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -38,10 +40,13 @@
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
 </div>
+
 <hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <br/>
+
 <div align="center">
     <!-- First Row of Icons -->
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,jquery,redux" />
@@ -52,7 +57,9 @@
     <!-- Third Row of Icons -->
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,materialui,postman,powershell,sass,vercel,vite" />
 </div>
+
 <hr/>
+
 <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
    <picture>
@@ -62,7 +69,9 @@
 </picture>
   
 </div>
+
 <div align="center">
+  
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
