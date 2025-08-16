@@ -20,9 +20,7 @@
 <h3 align="center">
   A passionate web developer from <span style="color: yellow;">Bangladesh</span> 🚀
 </h3>
-
 <br/>
-
 <div align="center">
 
 🔭 I’m currently working on **Frontend Development**
@@ -33,7 +31,6 @@
 </div>
 
 <br/>
-
 <div align="center"> 
     <a href="mailto:usamaforayaje@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -45,13 +42,10 @@
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
 </div>
-
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
 <br/>
-
 <div align="center">
     <!-- First Row of Icons -->
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,jquery,redux" />
