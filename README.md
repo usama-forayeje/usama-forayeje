@@ -6,15 +6,11 @@
 <img  src="https://visitor-badge.laobi.icu/badge?page_id=usama-forayeje" />
 </div>
 
-
-
 <div align="left" >
     <a href="https://github.com/usama-forayeje" target="_blank">
     <img src="https://img.shields.io/github/followers/usama-forayeje?label=Follow&style=social" alt="GitHub Follow">
   </a>
 </div>
-
-
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=5000&lines=Hey+there!+👋;+I'm+Usama+Forayeje!" />
@@ -109,5 +105,4 @@
 <div align="center">
     <h4>Made with ❤️ by <strong>Usama Forayeje</strong></h4>
 </div>
-
 <hr/>
