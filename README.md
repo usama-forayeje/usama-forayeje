@@ -2,10 +2,8 @@
   
 <a href="https://wakatime.com/@a266f62a-327f-4ed8-9c14-79e70cc54b70"><img src="https://wakatime.com/badge/user/a266f62a-327f-4ed8-9c14-79e70cc54b70.svg" alt="Total time coded since Nov 28 2024" /></a>
 
-
 <img  src="https://visitor-badge.laobi.icu/badge?page_id=usama-forayeje" />
 </div>
-
 <div align="left" >
     <a href="https://github.com/usama-forayeje" target="_blank">
     <img src="https://img.shields.io/github/followers/usama-forayeje?label=Follow&style=social" alt="GitHub Follow">
@@ -83,16 +81,11 @@
 <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama-forayeje&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
     
 </div>
-
 <br/>
-
 <div align="center">
 <a href='https://buymeacoffee.com/usama_forayaje' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
-
-
 <hr/>
-
 
 <div align="center">
     <h4>Made with ❤️ by <strong>Usama Forayeje</strong></h4>
