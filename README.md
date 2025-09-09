@@ -19,7 +19,6 @@
   A passionate web developer from <span style="color: yellow;">Bangladesh</span> 🚀
 </h3>
 
-
 <br/>
 
 <div align="center">
@@ -31,9 +30,7 @@
 ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from IKEA rugs**! 😱
 </div>
 
-
 <br/>
-
 
 <div align="center"> 
     <a href="mailto:usamaforayaje@gmail.com">
@@ -78,9 +75,7 @@
 
 <div align="center">
 
-  
 <hr/>
-
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
