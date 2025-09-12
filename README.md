@@ -19,7 +19,9 @@
   A passionate web developer from <span style="color: yellow;">Bangladesh</span> 🚀
 </h3>
 
+
 <br/>
+
 
 <div align="center">
 
@@ -31,6 +33,7 @@
 </div>
 
 <br/>
+
 
 <div align="center"> 
     <a href="mailto:usamaforayaje@gmail.com">
@@ -49,6 +52,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <br/>
+
 
 <div align="center">
     <!-- First Row of Icons -->
