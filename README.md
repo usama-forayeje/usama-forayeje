@@ -14,14 +14,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=5000&lines=Hey+there!+👋;+I'm+Usama+Forayeje!" />
 </h1>
 
-
 <h3 align="center">
   A passionate web developer from <span style="color: yellow;">Bangladesh</span> 🚀
 </h3>
 
-
 <br/>
-
 
 <div align="center">
 
@@ -33,7 +30,6 @@
 </div>
 
 <br/>
-
 
 <div align="center"> 
     <a href="mailto:usamaforayaje@gmail.com">
@@ -52,7 +48,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <br/>
-
 
 <div align="center">
     <!-- First Row of Icons -->
