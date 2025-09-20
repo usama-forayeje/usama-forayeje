@@ -21,6 +21,7 @@
 
 <br/>
 
+
 <div align="center">
 
 🔭 I’m currently working on **Frontend Development**
@@ -44,6 +45,7 @@
 
 <hr/>
 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <br/>
@@ -61,6 +63,7 @@
 </div>
 
 <hr/>
+
 
 <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
