@@ -2,6 +2,7 @@
   
 <a href="https://wakatime.com/@a266f62a-327f-4ed8-9c14-79e70cc54b70"><img src="https://wakatime.com/badge/user/a266f62a-327f-4ed8-9c14-79e70cc54b70.svg" alt="Total time coded since Nov 28 2024" /></a>
 
+
 <img  src="https://visitor-badge.laobi.icu/badge?page_id=usama-forayeje" />
 </div>
 <div align="left" >
@@ -28,7 +29,9 @@
 [here](https://github.com/usama-forayeje)** 
 ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from IKEA rugs**! 😱
 </div>
+
 <br/>
+
 <div align="center"> 
     <a href="mailto:usamaforayaje@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -92,9 +95,7 @@
 
 <div align="center">
 <a href='https://buymeacoffee.com/usama_forayaje' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
 </div>
-
 <hr/>
 
 <div align="center">
