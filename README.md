@@ -5,6 +5,7 @@
 <img  src="https://visitor-badge.laobi.icu/badge?page_id=usama-forayeje" />
 </div>
 
+
 <div align="left" >
     <a href="https://github.com/usama-forayeje" target="_blank">
     <img src="https://img.shields.io/github/followers/usama-forayeje?label=Follow&style=social" alt="GitHub Follow">
@@ -50,7 +51,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <br/>
-
 
 <div align="center">
     <!-- First Row of Icons -->
@@ -103,4 +103,5 @@
 <div align="center">
     <h4>Made with ❤️ by <strong>Usama Forayeje</strong></h4>
 </div>
+
 <hr/>
