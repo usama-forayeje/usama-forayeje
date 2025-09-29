@@ -57,13 +57,13 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" width="50" alt="OpenAI" />
 </a>
 <a href="https://www.langchain.com/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/12321873?s=200&v=4" width="50" alt="LangChain" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" width="50" alt="LangChain" />
 </a>
 <a href="https://cohere.ai/" target="_blank">
-  <img src="https://cohere.ai/assets/cohere-logo.svg" width="50" alt="Cohere" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" width="50" alt="Cohere" />
 </a>
 <a href="https://replicate.com/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/71272171?s=200&v=4" width="50" alt="Replicate" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" width="50" alt="Replicate" />
 </a>
 <a href="https://huggingface.co/" target="_blank">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" alt="HuggingFace" />
@@ -72,6 +72,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 <br>
 <sub>OpenAI, LangChain, Cohere, Replicate, HuggingFace</sub>
 </div>
+
 
 ---
 
