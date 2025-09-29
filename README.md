@@ -55,32 +55,33 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 <!-- LangChain -->
 <a href="https://www.langchain.com/" target="_blank">
-  <img src="https://seeklogo.com/vector-logo/528369/langchain" width="50" alt="LangChain" />
+  <img src="https://commons.wikimedia.org/wiki/File:LangChain_Logo.svg" width="50" alt="LangChain" />
 </a>
 
 <!-- Replicate -->
 <a href="https://replicate.com/" target="_blank">
-  <img src="https://seeklogo.com/vector-logo/611691/replicate" width="50" alt="Replicate" />
+  <img src="https://lobehub.com/icons/replicate" width="50" alt="Replicate" />
 </a>
 
 <!-- Cohere -->
-<a href="https://cohere.ai/" target="_blank">
-  <img src="https://seeklogo.com/vector-logo/611691/cohere" width="50" alt="Cohere" />
+<a href="https://cohere.com/" target="_blank">
+  <img src="https://lobehub.com/icons/cohere" width="50" alt="Cohere" />
 </a>
 
 <!-- Grok -->
 <a href="https://grok.x.ai/" target="_blank">
-  <img src="https://seeklogo.com/vector-logo/611691/grok" width="50" alt="Grok" />
+  <img src="https://commons.wikimedia.org/wiki/File:Grok-2025-logo.svg" width="50" alt="Grok" />
 </a>
 
 <!-- GenAI with JS -->
-<a href="https://example.com/genai-with-js" target="_blank">
-  <img src="https://example.com/genai-with-js.png" width="50" alt="GenAI with JS" />
+<a href="https://florisdh.nl/posts/genai-svg-logo/" target="_blank">
+  <img src="https://florisdh.nl/posts/genai-svg-logo/" width="50" alt="GenAI with JS" />
 </a>
 
 <br>
 <sub>LangChain, Replicate, Cohere, Grok, GenAI with JS</sub>
 </div>
+
 
 
 
