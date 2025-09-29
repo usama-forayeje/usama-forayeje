@@ -52,9 +52,20 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 ## 🤖 Generative AI & LLM Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=openai,langchain,cohere,replicate,fastapi" />
+
+<!-- OpenAI -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="40" height="40" alt="OpenAI" />
+<!-- LangChain -->
+<img src="https://raw.githubusercontent.com/LangChainAI/media/main/langchain-icon.png" width="40" height="40" alt="LangChain" />
+<!-- Cohere -->
+<img src="https://raw.githubusercontent.com/cohere-ai/cohere-branding/main/cohere-logo.png" width="40" height="40" alt="Cohere" />
+<!-- Replicate -->
+<img src="https://replicate.com/icons/icon.png" width="40" height="40" alt="Replicate" />
+<!-- HuggingFace -->
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="HuggingFace" />
+
 <br>
-<sub>OpenAI, LangChain, Cohere, Replicate, FastAPI</sub>
+<sub>OpenAI, LangChain, Cohere, Replicate, HuggingFace</sub>
 </div>
 
 ---
