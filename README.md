@@ -33,7 +33,7 @@
 <div align="center">
 
 🌱 Currently exploring **MERN & GenAI ecosystems**  
-💬 Ask me about **Node.js, React, Express, Databases, Firebase, or anything [here](https://github.com/usama-forayeje)**  
+💬 Ask me about **Node.js, React,Next.js, Express, Databases, Appwrite, or anything [here](https://github.com/usama-forayeje)**  
 
 </div>
 
