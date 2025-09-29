@@ -49,11 +49,70 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 ---
 
-## 🤖 Generative AI & LLM Tools
+## 🤖 Generative AI & LLM Tools & Projects
 
 <div align="center">
 
-**OpenAI** • **LangGraph** • **LangChain** . **Replicate** • **HuggingFace** • **Grok** • **GenAI with JS**
+**OpenAI** • **LangGraph** • **LangChain** • **Replicate** • **HuggingFace** • **Grok** • **GenAI with JS**
+
+</div>
+
+---
+
+### 🔹 Core LLM Concepts
+
+<div align="center">
+
+- **LLM Working**  
+- **Tokenization**  
+- **Vector Embeddings**  
+- **Prompt Types:** ChatML, INSTRUCT, ALPACA  
+- **Prompting Techniques:** Zero Shot • Few Shot • Chain-of-Thought (COT) • Persona  
+
+</div>
+
+---
+
+### 🔹 Projects & Experiments
+
+<div align="center">
+
+- **Tokenizor Project**  
+- **Persona Project**  
+- **Mini Cursor Project**  
+- **Persona of Hitesh Sir**  
+- **RAG Projects:** From Scratch, Indexing, Splitting, Advanced RAG, Corrective RAG, HyDe (Hypothetical Doc Embed), Query Rewriting, Chunking, LLM as a Judge, Ranking, Subquery  
+- **Website Clone Project**  
+- **Build Notebook LM**  
+- **RAG on VTT for Udemy**  
+
+</div>
+
+---
+
+### 🔹 Agents & Tools
+
+<div align="center">
+
+- **LangChain / LangGraph / LangSmith**  
+- **Agent SDK**  
+- **Agents**  
+- **Tools & Runner**  
+- **Agent Handoff**  
+- **Input Guardrails**  
+- **Tracing & Thread Management**  
+- **Human-in-the-Loop Overview**  
+- **BrowserUse Web Auto Agent Project**  
+
+</div>
+
+---
+
+### 🔹 Stylish Badge-Style Version (Optional)
+
+<div align="center">
+
+`LLM Working` • `Tokenization` • `Vector Embeddings` • `Prompting` • `Zero Shot` • `Few Shot` • `COT` • `Persona` • `RAG` • `LangChain` • `LangGraph` • `LangSmith` • `Agent SDK` • `Agents` • `Tools` • `Projects`  
 
 </div>
 
