@@ -53,25 +53,40 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 <div align="center">
 
+<!-- OpenAI -->
 <a href="https://openai.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" width="50" alt="OpenAI" />
 </a>
+
+<!-- LangChain -->
 <a href="https://www.langchain.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" width="50" alt="LangChain" />
+  <img src="https://avatars.githubusercontent.com/u/139595137?s=200&v=4" width="50" alt="LangChain" />
 </a>
+
+<!-- Cohere -->
 <a href="https://cohere.ai/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" width="50" alt="Cohere" />
+  <img src="https://avatars.githubusercontent.com/u/69855600?s=200&v=4" width="50" alt="Cohere" />
 </a>
+
+<!-- Replicate -->
 <a href="https://replicate.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" width="50" alt="Replicate" />
+  <img src="https://avatars.githubusercontent.com/u/69036566?s=200&v=4" width="50" alt="Replicate" />
 </a>
+
+<!-- HuggingFace -->
 <a href="https://huggingface.co/" target="_blank">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" alt="HuggingFace" />
 </a>
 
+<!-- Agent SDK -->
+<a href="https://github.com/openai/openai-python/tree/main/openai/agents" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/61807582?s=200&v=4" width="50" alt="Agent SDK" />
+</a>
+
 <br>
-<sub>OpenAI, LangChain, Cohere, Replicate, HuggingFace</sub>
+<sub>OpenAI, LangChain, Cohere, Replicate, HuggingFace, Agent SDK</sub>
 </div>
+
 
 
 ---
