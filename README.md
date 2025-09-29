@@ -18,20 +18,25 @@
 </h1>
 
 <h3 align="center">
-  A passionate web developer from <span style="color: yellow;">Bangladesh</span> 🚀
+  🚀 Full Stack & Generative AI Developer
 </h3>
+
+<p align="center">
+  Expertise in <b>React, Next.js, Node.js, Express, and TypeScript</b> <br/>
+  Building scalable web platforms & AI-powered applications <br/>
+  with <b>clean UI/UX</b>, <b>strong APIs</b>, and hands-on experience in <b>LLMs, RAG, AI Agents</b>. <br/>
+  Skilled in working with <b>SQL & NoSQL Databases</b> as well as modern <b>Vector Databases</b>.
+</p>
 
 <br/>
 
 <div align="center">
 
-🔭 I’m currently working on **Frontend Development**
-🌱 I’m currently learning **MERN Stack Development** 
-💬 Ask me about **Node.js, React, Firebase... or anything 
-[here](https://github.com/usama-forayeje)** 
-⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from IKEA rugs**! 😱
+🌱 Currently exploring **MERN & GenAI ecosystems**  
+💬 Ask me about **Node.js, React, Express, Databases, Firebase, or anything [here](https://github.com/usama-forayeje)**  
 
 </div>
+
 
 <br/>
 
