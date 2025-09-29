@@ -61,18 +61,6 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 ### 🔹 Core LLM Concepts
 
-<div align="center">
-
-- **LLM Working**  
-- **Tokenization**  
-- **Vector Embeddings**  
-- **Prompt Types:** ChatML, INSTRUCT, ALPACA  
-- **Prompting Techniques:** Zero Shot • Few Shot • Chain-of-Thought (COT) • Persona  
-- **RAG Concepts** • **LangChain** • **LangGraph** • **LangSmith** • **Agent SDK** • **Agents** • **Tools**  
-
-</div>
-
----
 
 <div align="center">
 
