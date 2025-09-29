@@ -1,3 +1,15 @@
+<div align="right">
+
+<!-- WakaTime Badge -->
+<a href="https://wakatime.com/@a266f62a-327f-4ed8-9c14-79e70cc54b70">
+  <img src="https://wakatime.com/badge/user/a266f62a-327f-4ed8-9c14-79e70cc54b70.svg" alt="Total time coded" />
+</a>
+
+<!-- Profile Visit Badge -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=usama-forayeje" alt="Profile Visits" />
+
+</div>
+
 <div align="center">
 
 <h1>
