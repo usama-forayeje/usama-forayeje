@@ -1,4 +1,4 @@
-<div align="right">
+<div align="right flex justify-between">
 
 <!-- WakaTime Badge -->
 <a href="https://wakatime.com/@a266f62a-327f-4ed8-9c14-79e70cc54b70">
