@@ -24,7 +24,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 <a href="mailto:usamaforayaje@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
-<a href="https://www.linkedin.com/in/usama-forayaje/" target="_blank">
+<a href="https://www.linkedin.com/in/usama-forayeje/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/usama-forayeje" target="_blank">
@@ -49,7 +49,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 ---
 
-## 🤖 Generative AI & LLM Tools & Projects
+## 🤖 Generative AI & LLM Tools
 
 <div align="center">
 
@@ -68,57 +68,17 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 - **Vector Embeddings**  
 - **Prompt Types:** ChatML, INSTRUCT, ALPACA  
 - **Prompting Techniques:** Zero Shot • Few Shot • Chain-of-Thought (COT) • Persona  
+- **RAG Concepts** • **LangChain** • **LangGraph** • **LangSmith** • **Agent SDK** • **Agents** • **Tools**  
 
 </div>
 
 ---
 
-### 🔹 Projects & Experiments
-
 <div align="center">
 
-- **Tokenizor Project**  
-- **Persona Project**  
-- **Mini Cursor Project**  
-- **Persona of Hitesh Sir**  
-- **RAG Projects:** From Scratch, Indexing, Splitting, Advanced RAG, Corrective RAG, HyDe (Hypothetical Doc Embed), Query Rewriting, Chunking, LLM as a Judge, Ranking, Subquery  
-- **Website Clone Project**  
-- **Build Notebook LM**  
-- **RAG on VTT for Udemy**  
+`LLM Working` • `Tokenization` • `Vector Embeddings` • `Prompting` • `Zero Shot` • `Few Shot` • `COT` • `Persona` • `RAG` • `LangChain` • `LangGraph` • `LangSmith` • `Agent SDK` • `Agents` • `Tools`  
 
 </div>
-
----
-
-### 🔹 Agents & Tools
-
-<div align="center">
-
-- **LangChain / LangGraph / LangSmith**  
-- **Agent SDK**  
-- **Agents**  
-- **Tools & Runner**  
-- **Agent Handoff**  
-- **Input Guardrails**  
-- **Tracing & Thread Management**  
-- **Human-in-the-Loop Overview**  
-- **BrowserUse Web Auto Agent Project**  
-
-</div>
-
----
-
-### 🔹 Stylish Badge-Style Version (Optional)
-
-<div align="center">
-
-`LLM Working` • `Tokenization` • `Vector Embeddings` • `Prompting` • `Zero Shot` • `Few Shot` • `COT` • `Persona` • `RAG` • `LangChain` • `LangGraph` • `LangSmith` • `Agent SDK` • `Agents` • `Tools` • `Projects`  
-
-</div>
-
-
-
-
 
 ---
 
