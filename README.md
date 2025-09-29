@@ -38,13 +38,13 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 <div align="center">
 <!-- Web & Frontend -->
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,jquery,redux" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs,redux" />
 <br>
 <!-- Backend & DB -->
-<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,babel" />
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,postgres,mongodb,redis,nginx,prisma" />
 <br>
 <!-- Tools -->
-<img src="https://skillicons.dev/icons?i=vscode,github,figma,git,materialui,postman,powershell,sass,vercel,vite" />
+<img src="https://skillicons.dev/icons?i=vscode,github,figma,git,docker,postman,pnpm,prisma,vercel,notion" />
 </div>
 
 ---
