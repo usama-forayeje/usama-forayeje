@@ -13,6 +13,8 @@
   </tr>
 </table>
 
+
+
 <div align="center">
 
 <h1>
@@ -46,6 +48,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
 </a>
 </div>
+
 
 ---
 
