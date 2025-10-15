@@ -13,7 +13,6 @@
   </tr>
 </table>
 
-
 <div align="center">
 
 <h1>
@@ -109,6 +108,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 </div>
 
 ---
+
 
 <!-- <div align="center">
 <a href='https://buymeacoffee.com/usama_forayaje' target='_blank'>
