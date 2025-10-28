@@ -15,6 +15,7 @@
 
 <div align="center">
 
+
 <h1>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=5000&lines=Hey+there!+👋;+I'm+Usama+Forayaje!" />
 </h1>
