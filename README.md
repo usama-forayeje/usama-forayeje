@@ -16,6 +16,7 @@
 <div align="center">
 
 <h1>
+
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=5000&lines=Hey+there!+👋;+I'm+Usama+Forayaje!" />
 </h1>
 
@@ -34,6 +35,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 </div>
 
 ---
+
 <div align="center">
 <a href="mailto:usamaforayaje@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -108,13 +110,11 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 ---
 
-
 <!-- <div align="center">
 <a href='https://buymeacoffee.com/usama_forayaje' target='_blank'>
 <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' />
 </a>
 </div>
-
 
 --- -->
 
