@@ -22,6 +22,7 @@
 
 <h3>🚀 Full Stack & Generative AI Developer</h3>
 
+
 <p>
 Expertise in <b>React, Next.js, Node.js, Express, TypeScript</b> <br/>
 Building scalable web & AI-powered apps <br/>
@@ -36,6 +37,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 ---
 
+
 <div align="center">
 <a href="mailto:usamaforayaje@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -47,7 +49,6 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
 </a>
 </div>
-
 
 ---
 
