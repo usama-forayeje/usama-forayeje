@@ -22,7 +22,6 @@
 
 <h3>🚀 Full Stack & Generative AI Developer</h3>
 
-
 <p>
 Expertise in <b>React, Next.js, Node.js, Express, TypeScript</b> <br/>
 Building scalable web & AI-powered apps <br/>
@@ -36,7 +35,6 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 </div>
 
 ---
-
 
 <div align="center">
 <a href="mailto:usamaforayaje@gmail.com">
