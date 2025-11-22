@@ -29,10 +29,12 @@ with <b>clean UI/UX</b>, <b>strong APIs</b> & <b>LLMs, RAG, AI Agents</b> <br/>
 Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 </p>
 
+
 🌱 Currently exploring **MERN & GenAI ecosystems**  
 💬 Ask me about **Node.js, React, Next.js, Express, Databases, Appwrite, GenAI**  
 
 </div>
+
 
 ---
 
@@ -47,6 +49,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
 </a>
 </div>
+
 
 ---
 
