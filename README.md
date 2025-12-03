@@ -17,10 +17,12 @@
 
 <h1>
 
+
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=5000&lines=Hey+there!+👋;+I'm+Usama+Forayaje!" />
 </h1>
 
 <h3>🚀 Full Stack & Generative AI Developer</h3>
+
 
 <p>
 Expertise in <b>React, Next.js, Node.js, Express, TypeScript</b> <br/>
