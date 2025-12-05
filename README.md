@@ -50,6 +50,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 ---
 
+
 ## ⚒️ Languages, Frameworks & Tools
 
 <div align="center">
@@ -65,6 +66,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 ---
 
+
 ## 🤖 Generative AI & LLM Tools
 
 <div align="center">
@@ -74,6 +76,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 </div>
 
 ---
+
 
 ### 🔹 Core LLM Concepts
 
