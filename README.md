@@ -31,7 +31,6 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 🌱 Currently exploring **MERN & GenAI ecosystems**  
 💬 Ask me about **Node.js, React, Next.js, Express, Databases, Appwrite, GenAI**  
-
 </div>
 
 ---
@@ -75,7 +74,6 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 ---
 
-
 ### 🔹 Core LLM Concepts
 
 <div align="center">
@@ -114,7 +112,6 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' />
 </a>
 </div>
-
 --- -->
 
 <div align="center">
