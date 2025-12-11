@@ -27,6 +27,7 @@ Expertise in <b>React, Next.js, Node.js, Express, TypeScript</b> <br/>
 Building scalable web & AI-powered apps <br/>
 with <b>clean UI/UX</b>, <b>strong APIs</b> & <b>LLMs, RAG, AI Agents</b> <br/>
 Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
+
 </p>
 
 🌱 Currently exploring **MERN & GenAI ecosystems**  
@@ -63,8 +64,6 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 </div>
 
 ---
-
-
 
 ## 🤖 Generative AI & LLM Tools
 
