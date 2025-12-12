@@ -36,6 +36,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 ---
 
+
 <div align="center">
 <a href="mailto:usamaforayaje@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -82,6 +83,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 `LLM Working` • `Tokenization` • `Vector Embeddings` • `Prompting` • `Zero Shot` • `Few Shot` • `COT` • `Persona` • `RAG` • `LangChain` • `LangGraph` • `LangSmith` • `Agent SDK` • `Agents` • `Tools`  
 
 </div>
+
 
 ---
 
