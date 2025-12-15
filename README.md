@@ -83,7 +83,6 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 </div>
 
-
 ---
 
 ## 🐍 My Contributions
