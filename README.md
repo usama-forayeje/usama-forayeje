@@ -63,6 +63,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,docker,postman,pnpm,prisma,vercel,notion" />
 </div>
 
+
 ---
 
 ## 🤖 Generative AI & LLM Tools
@@ -98,6 +99,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 ---
 
 ## ⚡ Stats
+
 
 <div align="center">
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=usama-forayeje&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
