@@ -63,7 +63,6 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,docker,postman,pnpm,prisma,vercel,notion" />
 </div>
 
-
 ---
 
 ## 🤖 Generative AI & LLM Tools
