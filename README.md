@@ -99,7 +99,6 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 ## ⚡ Stats
 
-
 <div align="center">
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=usama-forayeje&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=usama-forayeje&count_private=true&show_icons=true&include_all_commits=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
@@ -108,6 +107,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 </div>
 
 ---
+
 
 <!-- <div align="center">
 <a href='https://buymeacoffee.com/usama_forayaje' target='_blank'>
