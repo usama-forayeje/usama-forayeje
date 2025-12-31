@@ -62,7 +62,6 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 <!-- Tools -->
 <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,docker,postman,pnpm,prisma,vercel,notion" />
 </div>
-
 ---
 
 ## 🤖 Generative AI & LLM Tools
@@ -107,7 +106,6 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 </div>
 
 ---
-
 
 <!-- <div align="center">
 <a href='https://buymeacoffee.com/usama_forayaje' target='_blank'>
