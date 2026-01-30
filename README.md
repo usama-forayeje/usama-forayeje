@@ -107,14 +107,12 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 ---
 
-
 <!-- <div align="center">
 <a href='https://buymeacoffee.com/usama_forayaje' target='_blank'>
 <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' />
 </a>
 </div>
 --- -->
-
 <div align="center">
 <h4>Made with ❤️ by <strong>Usama Forayeje</strong></h4>
 </div>
