@@ -34,6 +34,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 💬 Ask me about **Node.js, React, Next.js, Express, Databases, Appwrite, GenAI**  
 </div>
 
+
 ---
 
 <div align="center">
@@ -72,6 +73,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 
 </div>
 
+
 ---
 
 ### 🔹 Core LLM Concepts
@@ -104,6 +106,7 @@ Skilled in <b>SQL & NoSQL</b> and modern <b>Vector Databases</b>
 <br/>
 <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama-forayeje&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
 </div>
+
 
 ---
 
